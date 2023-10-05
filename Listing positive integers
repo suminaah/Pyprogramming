@@ -1,0 +1,7 @@
+list=[-3,10,12,-40,-55,6,8,7,-4,-100,0,-12]
+li=[]
+for i in list:
+    if i>0:
+        li.append(i)
+print("Positive numbers are:",li)
+ 
