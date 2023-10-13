@@ -1,0 +1,5 @@
+dict={'key1':'1','key2':'22','key3':'32','key4':'12'}
+print(dict)
+if 'key2' in dict:
+    del dict['key2']
+    print(dict)
